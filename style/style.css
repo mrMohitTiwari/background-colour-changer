@@ -1,0 +1,16 @@
+    body{
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+    }
+    button{
+        background-color: #808080;
+        padding:25px;
+        border: 2px rgb(251, 50, 50) solid;
+        cursor: pointer;
+        font-size: 17px;
+        font-family: serif;
+        font-weight: 600;
+    }
